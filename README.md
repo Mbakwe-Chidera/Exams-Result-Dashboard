@@ -1,4 +1,4 @@
-# Examination Results Dashboard – Pure HTML & CSS
+# Examination Results Dashboard – HTML & CSS
 
 A single-page report card that shows Chidera’s Spring 2024 scores, GPA, grades and performance bars.  
 No JavaScript, no images, just `index.html` and `style.css`.
